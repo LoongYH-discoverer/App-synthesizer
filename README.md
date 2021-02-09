@@ -1,5 +1,5 @@
 # App-synthesizer
-Inspired by Teenage engineering OP-1 synthesizer. Make a ownstudio synthesizer into app for free on App store or Playstore.
+Inspired by Teenage engineering OP-1 synthesizer. Make a music production studio into app for free on App store or Playstore.
 
 we will try neon led light style ,may be 2d or 3d , find them on google image
 
