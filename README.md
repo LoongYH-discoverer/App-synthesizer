@@ -15,4 +15,4 @@ waymore cool and better than F1ip sampl3r
 
 maybe a simple ledboard(like samsung led cover) for drawing gif animate while playing tracks
 
-## Programmers, pls help the poors have the same tools for music creations !!
+## Programmers, pls help poors to have ability for music creations !!
