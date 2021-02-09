@@ -1,9 +1,9 @@
 # App-synthesizer
-Inspired by Teenage engineering OP-1 synthesizer. Make an intermediate level synthesizer into app for free on App store or Playstore.
+Inspired by Teenage engineering OP-1 synthesizer. Make a ownstudio synthesizer into app for free on App store or Playstore.
 
 we will try neon led light style ,may be 2d or 3d , find them on google image
 
-//basically just like 733N4g3 3Ng1N33R 0P1 ,we can take references from their "manual b00k" 
+//basically just an app to replace 733N4g3 3Ng1N33R 0P1 ,we can take references from their "manual b00k" 
 
 main features are piano, drumpads
 
